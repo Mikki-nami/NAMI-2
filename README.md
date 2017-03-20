@@ -1,5 +1,3 @@
 # NAMI-2
 
-Blbalblabla
-
-To jsem teda zvedava, ci se mi to podari spravne rozjet... -.-''
+Toto je repozitář za studijním účelem do předmětu ŇAMI, takže nečekejte, že se tu dozvíte jak spasit svět. Spíš nějaké zprasené pokusy o cokoliv :-)
